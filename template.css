@@ -1,0 +1,41 @@
+*{
+	font-family: Arial;
+}
+
+
+body{
+	padding: 0;
+	margin: 20px;
+
+}
+div h1{
+	display: flex;
+	justify-content:center;
+
+}
+table th{
+	padding-top: 100px;
+}
+td{
+	padding-left: 200px;
+}
+#email{
+	padding-top: 30px;
+	padding-left: 350px;
+}
+a{
+	color:black;
+	text-decoration: none;
+	padding: 10px;
+	background-color: #6e6e6e;
+	border-radius: 5px;
+}
+a:hover{
+	background-color: blue;
+	color:#fff;
+}
+div a{
+	display: flex;
+	margin-top: 20px;
+	justify-content:center;
+}
